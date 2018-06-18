@@ -1,0 +1,15 @@
+DLTK_argument=255,0,128
+DLTK_base_class_bold=true
+DLTK_default=128,0,128
+DLTK_function_definition_bold=true
+DLTK_multi_line_comment_italic=false
+DLTK_operator_bold=true
+DLTK_single_line_comment=0,128,0
+DLTK_single_line_comment_italic=false
+DLTK_string=0,128,255
+SHELLED_interpolated_string=0,0,255
+eclipse.preferences.version=1
+sourceHoverBackgroundColor=255,255,225
+sourceHoverBackgroundColor.SystemDefault=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

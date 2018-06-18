@@ -1,0 +1,10 @@
+GoToolPreferences.GOFMT_Path=\:E\:\\Go\\bin\\gofmt.exe
+GoToolPreferences.GO_GURU_Path=
+GoToolPreferences.godef.Path=
+append_projloc_gopath=true
+com.googlecode.goclipse.gopath=
+com.googlecode.goclipse.goroot=
+daemon_path=gocode
+eclipse.preferences.version=1
+editor.matchingBrackets=true
+format_onSave=false
